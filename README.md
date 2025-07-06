@@ -1,78 +1,106 @@
 # 🌍 Global Sourcing Dashboard – Abheshu Pharma
 
-This project simulates a real-world global sourcing tracker designed for pharma procurement teams. It focuses on managing delivery timelines, supplier compliance, and cost transparency across multiple geographies — tailored to the business needs of Abheshu Pharma.
+### 📌 Created by **Dadi Naveen**  
+> 🎓 M.S. Business Analytics – University of New Haven  
+> 📍Baltic, CT, USA | 📧 dnave1@unh.newhaven.edu  
+> 💼 [LinkedIn](https://linkedin.com/in/naveendadi) | 💻 [GitHub](https://github.com/dadinaveen1729)
 
 ---
 
-## 🚀 Objective
+### 🌟 Dedicated to **Vanitha Poojary**  
+**Managing Director & CEO, Abheshu Pharma LLC – Texas, USA**
 
-To streamline the procurement of APIs, RLDs, comparator drugs, FDFs, and excipients using dashboards and automation — while ensuring compliance and visibility for stakeholders in QA, Regulatory, Finance, and Logistics.
+Dear Vanitha Mam,  
+Your visionary leadership and dedication to making "Health Delivered Worldwide" a reality is truly inspiring. This project is a small tribute to your journey, with the hope that it aligns with your strategic vision for global sourcing excellence. It would be an honor to contribute to your team.
 
 ---
 
-## 💼 What It Covers
+## 💡 About This Project
 
-- Supplier OTIF tracking (On-Time-In-Full)
-- Lead time and expiry risk alerts
-- Price benchmarking by material and geography
-- Compliance scorecards (GMP, CoA, audit-ready)
-- Cross-team sourcing coordination workflow
+This dashboard was created specifically for **Abheshu Pharma** to simulate and support global pharmaceutical sourcing. It addresses common challenges in sourcing APIs (Active Pharmaceutical Ingredients), RLDs (Reference Listed Drugs), FDFs (Finished Dosage Forms), comparator drugs, and excipients from international suppliers.
+
+As an aspiring **Associate Manager – Global Sourcing**, this project reflects how I think, plan, and execute sourcing decisions that are:
+
+- Compliant
+- Predictable
+- Cost-efficient
+- Supplier-transparent
+
+---
+
+## 🎯 What Problem It Solves
+
+**Abheshu’s Challenge** | **How This Project Helps**
+:--|:--
+Unpredictable lead times & supplier delays | Tracks OTIF%, delivery trends, and lead time variances
+Inconsistent pricing across geographies | Benchmarks costs per unit for negotiation-ready analysis
+Compliance risks from multiple vendors | Scores each supplier on GMP, CoA, and audit readiness
+Supply scrap and wastage | Highlights high-risk materials for expiry/scrap alerts
+
+---
+
+## ⚙️ Features
+
+- ✅ **Supplier OTIF Tracker**: Who delivers on-time and in-full
+- 🧠 **Compliance Scorecard**: Are vendors audit-ready? CoA available?
+- 🕒 **Lead Time Trends**: Helps plan faster procurement decisions
+- 💵 **Cost Benchmarking**: Compare price per unit across vendors
+- 📦 **Material Scrap Risk**: Identify waste-prone APIs/FDFs before it hurts
 
 ---
 
 ## 🛠️ Tools Used
 
-- Power BI (dashboards)
-- Excel (costing sheets, SLA tracking)
-- Python (lead time alerts, expiry risk scoring)
-- Simulated SAP purchase order data
+- **Power BI**: Dashboards for supply KPIs
+- **Python**: Risk flags, lead time automation
+- **Excel**: Costing analysis, RFx comparison
+- **SAP (simulated)**: Material master & vendor profile tracking
 
 ---
 
-## 📊 Key Dashboards
+## 📊 Dashboards & Visuals
 
-| Metric             | Purpose                              |
-|--------------------|--------------------------------------|
-| OTIF %             | Supplier reliability                 |
-| Scrap by Material  | Waste & expiry tracking              |
-| Cost/Unit          | Price comparison across vendors      |
-| Compliance Score   | Regulatory and audit readiness       |
-| Lead Time Trend    | Regional sourcing decisions          |
+### 📌 Supplier OTIF % Comparison
+![Supplier OTIF](dashboards/supplier_otif.png)
+> Identifies which suppliers are most reliable — helps optimize partner selection and reduce missed timelines.
 
----
+### 📌 Lead Time by Supplier
+![Lead Time](dashboards/lead_time.png)
+> See where delays happen — source from faster geographies or improve contract terms.
 
-## 🔁 Simulated Materials
+### 📌 Cost per Unit Benchmark
+![Cost per Unit](dashboards/cost_per_unit.png)
+> Know which vendor offers the best deal for the same quality — reduces negotiation time and increases profit margins.
 
-- Atorvastatin API
-- Glucophage (RLD)
-- Xarelto (Comparator Drug)
-- Excipients: MCC, Magnesium Stearate
-
----
-
-## 👨‍🔬 My Role (Dadi Naveen)
-
-I designed this as a supply chain solution aligned to Abheshu Pharma’s global sourcing strategy. It reflects real workflows like RFx handling, vendor onboarding, and regulatory alignment — built with tools I’ve used in prior roles.
-
-This project isn’t just a simulation — it’s a mindset I’d bring to your team.
+### 📌 Compliance Score
+![Compliance Score](dashboards/compliance_score.png)
+> Regulatory risk? Not anymore. Track who is audit-ready and GMP compliant, at a glance.
 
 ---
 
-## 📂 Repo Structure
+## 👤 About Me – Why I’m a Fit
 
-```
-/data
-  └── supplier-performance.csv
-  └── price-benchmark.xlsx
-/scripts
-  └── expiry_alerts.py
-  └── leadtime_predictor.py
-/dashboards
-  └── abheshu-sourcing-dashboard.pbix
-```
+With 4+ years of experience in:
+- 📦 Procurement operations (India & U.S.)
+- 🧪 API/RLD sourcing
+- 📉 Cost & scrap reduction
+- 🧮 SAP S/4HANA, Power BI, Python
+- 📑 GMP/CoA documentation workflows
+
+And a mindset shaped by my Business Analytics training + Harvard Exec Strategy certificate, I bring:
+
+✅ Strategic thinking  
+✅ Data-driven decisions  
+✅ Passion for global health systems  
 
 ---
 
-## 📣 Let’s Connect
+## ❤️ Final Note to Abheshu Pharma
 
-This project is built to evolve. If you’re scaling sourcing globally and want real-time dashboards that work across time zones, suppliers, and regulatory demands — let’s talk.
+> This project isn’t just code and charts — it’s a simulation of what I’ll bring to your team: passion, precision, and purpose.
+
+Dear Vanitha Mam, thank you again for building such a bold and purposeful company. Your leadership motivates me to contribute meaningfully to Abheshu Pharma’s growth — and I’d be honored to do so as your next Associate Manager – Global Sourcing.
+
+Warm regards,  
+**Dadi Naveen**  
+🔗 [linkedin.com/in/naveendadi](https://linkedin.com/in/naveendadi)
