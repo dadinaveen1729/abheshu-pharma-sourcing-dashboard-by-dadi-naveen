@@ -93,3 +93,25 @@ Thank you for championing global access to health and setting the standard in ph
 **Warm regards,**  
 **Dadi Naveen**  
 🔗 [linkedin.com/in/naveendadi](https://linkedin.com/in/naveendadi)
+---
+
+## 📘 What, Why, and How
+
+### 🧪 What is this project?
+This is a real-time sourcing dashboard built specifically for **Abheshu Pharma**, focusing on the key components of pharmaceutical supply chains — APIs (Active Pharmaceutical Ingredients), RLDs (Reference Listed Drugs), FDFs (Finished Dosage Forms), supplier OTIF performance, cost benchmarking, and compliance.
+
+### 💡 Why was this created?
+To demonstrate how data can drive better procurement decisions and supplier relationships. This dashboard was built as a role-specific solution to show exactly how I, Dadi Naveen, would approach global sourcing challenges using analytics, with the goal of aligning with Abheshu Pharma’s mission of “Delivering Health Worldwide.”
+
+### 🛠️ How does it help Abheshu Pharma?
+This dashboard helps you:
+- Benchmark supplier performance using OTIF (On-Time In-Full) metrics
+- Spot lead time variability and improve logistics predictability
+- Track GMP compliance risks before they affect delivery timelines
+- Compare cost per unit across different suppliers for smart sourcing
+- Evaluate vendor readiness for APIs, RLDs, and FDFs
+- Enhance audit readiness and cross-functional visibility
+
+These tools allow the sourcing and compliance team to make smarter, faster, and more consistent procurement decisions globally.
+
+---
